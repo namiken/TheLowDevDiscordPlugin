@@ -1,0 +1,8 @@
+name: TheLowDiscordPlugin
+main: jp.thelow.public_dev.discord.DiscordPlugin
+version: 0.1
+commands:
+   oplist:
+     description: Get Op Players.
+     permission: oplist
+     permission-message: You don't have <permission>
